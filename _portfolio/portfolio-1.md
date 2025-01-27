@@ -1,6 +1,6 @@
 ---
 title: "Restaurant POS system"
-excerpt: "Database Project using React, NodeJS, HTML, and CSS"
+excerpt: "Database Project using React, NodeJS, HTML, and CSS<br/><img src='/images/pos-system.png'>"
 collection: portfolio
 ---
 
