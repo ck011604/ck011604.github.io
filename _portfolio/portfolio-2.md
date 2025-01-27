@@ -1,6 +1,6 @@
 ---
 title: "Charlotte's Mansion"
-excerpt: "Game Development Project using Godot 4 and GDScript<br/><img src='/images/charlotte's-mansion.gif'>"
+excerpt: "Game Development Project using Godot 4 and GDScript<br/><img src='/images/charlottes-mansion.gif'>"
 collection: portfolio
 ---
 
