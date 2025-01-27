@@ -4,4 +4,4 @@ excerpt: "Database Project using React, NodeJS, HTML, and CSS<br/><img src='/ima
 collection: portfolio
 ---
 
-<a rel="https://github.com/ck011604/database-project-app">https://github.com/ck011604/database-project-app</a> 
+<a href="https://github.com/ck011604/database-project-app">https://github.com/ck011604/database-project-app</a> 
