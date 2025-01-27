@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Canly Kong"
 description              : &description "personal description"
 url                      : https://ck011604.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "ck011604/ck011604.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
